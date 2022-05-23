@@ -1,0 +1,24 @@
+body {
+    background-color: #F9E8A6;
+    text-align: center;
+}
+
+p{
+    margin: 25px;
+}
+
+footer {
+    text-decoration: none;
+    color: green;
+}
+
+img {
+    max-width: 50%;
+    border-radius: 10px;
+    display: block;
+    margin: 30px auto;
+}
+
+.page-links {
+    padding: 0 20px;
+}
